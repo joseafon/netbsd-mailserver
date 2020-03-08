@@ -148,7 +148,7 @@ clear
 echo
 
 echo "Only Class C Network support ---> 192.168.X.0/24"
-
+echo
 echo "Insert your ip"
 echo "-------------"
 echo
