@@ -23,13 +23,13 @@ Named (Bind9), Postfix, Dovecot, PF FIREWALL, SSH
 - cd netbsd-mailserver-master
 
 ## Setup
-- su -
+- su 
 - chmod 700 netbsd-mailserver.sh
 
 ## Run
 sh netbsd-mailserver.sh
 
 ## Add users and passwords to Mail Server
-- su -
+- su 
 - useradd -m -s /sbin/nologin username
 - passwd username
