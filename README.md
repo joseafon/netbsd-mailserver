@@ -20,14 +20,14 @@ Named (Bind9), Postfix, Dovecot, PF FIREWALL, SSH
 ## Installation
 - wget --no-check-certificate https://codeload.github.com/joseafon/netbsd-mailserver/zip/master
 - unzip master 
-- cd netbsd-mailserver
+- cd netbsd-mailserver-master
 
 ## Setup
 - su -
-- chmod 700 netbsd-mailserver
+- chmod 700 netbsd-mailserver.sh
 
 ## Run
-sh netbsd-mailserver
+sh netbsd-mailserver.sh
 
 ## Add users and passwords to Mail Server
 - su -
