@@ -1,3 +1,5 @@
+![Diagrama1](https://user-images.githubusercontent.com/57175463/76168051-8dfc4c00-6163-11ea-980e-5f0cd60fa66a.jpeg)
+
 ## netbsd-mailserver
 
 ## Script to autoinstall a DNS and local Mail Server with STARTTLS on NetBSD  
