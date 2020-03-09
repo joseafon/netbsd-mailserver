@@ -33,3 +33,7 @@ sh netbsd-mailserver.sh
 - su 
 - useradd -m -s /sbin/nologin username
 - passwd username
+
+## Video 
+Installation]
+(https://www.youtube.com/watch?v=ikkOR02AkFA).
