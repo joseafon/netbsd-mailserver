@@ -35,5 +35,5 @@ sh netbsd-mailserver.sh
 - passwd username
 
 ## Video 
-Installation]
+[Installation]
 (https://www.youtube.com/watch?v=ikkOR02AkFA).
