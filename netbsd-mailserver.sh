@@ -100,7 +100,7 @@ securelevel=1
 pf=YES
 pflogd=YES
 pf_rules=\"/etc/pf.conf\"
-pf_lags=\"\"
+pf_flags=\"\"
 
 " > /etc/rc.conf
 
